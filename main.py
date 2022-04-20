@@ -18,3 +18,4 @@ if palindrome_checker == convert:
     print(f"{word} is a palindrome")
 else:
     print(f'{word} is not a plaindrome')
+
